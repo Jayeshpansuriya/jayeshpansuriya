@@ -1,7 +1,7 @@
-[![MasterHead](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)]
+[![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)]
 <h1 align="center">Hi 👋, I'm JAYESH PANSURIYA</h1>
 <h3 align="center">A passionate Java developer from India.</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*U4QuXlAS7XKvhyFh.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshpansuriya&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshpansuriya" /> </p>
