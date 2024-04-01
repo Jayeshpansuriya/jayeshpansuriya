@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)]
+![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 <h1 align="center">Hi 👋, I'm JAYESH PANSURIYA</h1>
 <h3 align="center">A passionate Java developer from India.</h3>
 
