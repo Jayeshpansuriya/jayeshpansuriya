@@ -33,7 +33,7 @@
 <a href="https://www.youtube.com/c/@jayvisha_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jayvisha_143" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pansuriyaj1nma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pansuriyaj1nma" height="30" width="40" /></a>
 <a href="https://discord.gg/jayeshpansuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jayeshpansuriya" height="30" width="40" /></a>
-  <a href="https://codepen.io/@jayesh-pansuriya" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg]
+  <a href="https://codepen.io/@jayesh-pansuriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jayeshpansuriya" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
