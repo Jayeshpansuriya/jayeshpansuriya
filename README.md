@@ -20,7 +20,9 @@
 
 - 💬 Ask me about **java,VsCode,Html,Css,Financial Psychology( The Individual or Client Perspective),Religious and Spiritual Concept**
 
-- 📫 How to reach me **pansuriyajayesh786@gmail.com || jdinfotech2019@gmail.com**
+- 📫 How to reach me **pansuriyajayesh786@gmail.com || jdinfotech2019@gmail.com **
+
+- Instagram:  ** https://www.instagram.com/wealthmindset_786 **
 
 - ⚡ Fun fact **I am JD.**
 
